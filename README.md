@@ -6,4 +6,6 @@ Dataset: points of Students.
 Records: 100.
 Fields: 24.
 
+How to run it: type command in cmd "python plot.py"
+
 Enjoy!!!
